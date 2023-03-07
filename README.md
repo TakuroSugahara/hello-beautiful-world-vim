@@ -4,9 +4,11 @@ https://github.com/TakuroSugahara/hello-beautiful-world-vim
 
 ### Usage
 
-Press [z] key.
+<!-- Press [z] key. -->
+<!--  -->
+<!-- <img width="275" alt="スクリーンショット 2023-03-05 15 30 50" src="https://user-images.githubusercontent.com/38108000/222945598-cd2fc737-3e0b-4409-9d55-581c313268c5.png"> -->
 
-<img width="275" alt="スクリーンショット 2023-03-05 15 30 50" src="https://user-images.githubusercontent.com/38108000/222945598-cd2fc737-3e0b-4409-9d55-581c313268c5.png">
+:HelloWorld
 
 ### How to install
 
@@ -26,4 +28,5 @@ NeoBundle 'TakuroSugahara/hello-beautiful-world-vim'
 
 ### Reference
 https://qiita.com/bonjin6770@github/items/31e60707ecf2ad6c4496
+https://www.bedroomcomputing.com/2022/12/2022-1222-nvim-plugin/
 
