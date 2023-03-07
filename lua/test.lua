@@ -1,9 +1,9 @@
 -- キャッシュされたモジュール削除
-package.loaded['hello-in-lua'] = nil
-package.loaded['hello/module'] = nil
+package.loaded['hello-beautiful-world-vim'] = nil
+package.loaded['hello-beautiful-world-vim/module'] = nil
 
 -- モジュールの呼び出し
-local simple = require('hello-in-lua')
+local simple = require('hello-beautiful-world-vim')
 
 -- モジュールの関数呼び出し
 simple.hello_world()

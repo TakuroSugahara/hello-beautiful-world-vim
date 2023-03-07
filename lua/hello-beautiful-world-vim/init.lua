@@ -4,7 +4,7 @@
 -- プラグインの機能を実装するモジュール
 local M = {}
 
-local m = require('hello/module')
+local m = require('hello-beautiful-world-vim/module')
 
 -- Hello, World!を表示する関数
 function M.hello_world()
