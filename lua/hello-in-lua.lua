@@ -1,5 +1,5 @@
-vim.cmd('command! HelloWorld :lua require("hello-in-lua").hello_world()')
-vim.cmd('command! HelloSubmodule :lua require("hello-in-lua").hello_world()')
+-- vim.cmd('command! HelloWorld :lua require("hello-in-lua").hello_world()')
+-- vim.cmd('command! HelloSubmodule :lua require("hello-in-lua").hello_world()')
 
 -- プラグインの機能を実装するモジュール
 local M = {}
